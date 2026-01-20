@@ -31,5 +31,6 @@
 
 https://github.com/TusharKantaPradhan/github-contribution-grid-snake/blob/main/.github/workflows/blank.yml
 <p align="center">
-  <img src="https://github.com/TusharKantaPradhan/github-contribution-grid-snake/blob/main/.github/workflows/blank.yml" />
+  <img src="https://raw.githubusercontent.com/TusharKantaPradhan/github-contribution-grid-snake/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
