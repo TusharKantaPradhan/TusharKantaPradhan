@@ -3,7 +3,7 @@
 </p>
 
 # 💫 About Me:
-A passionate Data Science student | Machine Learning & Full-Stack Developer | Building end-to-end AI systems<br>🌱 I’m currently learning Machine Learning and Backend Development<br><br>💬 Ask me about Machine Learning, Data Analysis, and Python<br><br>📫 How to reach me tkpradhan570@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/13paXak0-VTx1cVMLi-qXArfdkQI_9Uiy/view?usp=sharing<br><br>⚡ Fun fact I enjoy turning raw data into meaningful insights
+<h3>A passionate Data Science student | Machine Learning & Full-Stack Developer | Building end-to-end AI systems</h3><br>🌱 I’m currently learning Machine Learning and Backend Development<br><br>💬 Ask me about Machine Learning, Data Analysis, and Python<br><br>📫 How to reach me tkpradhan570@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/13paXak0-VTx1cVMLi-qXArfdkQI_9Uiy/view?usp=sharing<br><br>⚡ Fun fact I enjoy turning raw data into meaningful insights
 
 
 ## 🌐 Socials:
