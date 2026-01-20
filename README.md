@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Machine Learning & Data Science Banner" width="100%">
+</p>
+
 <h1 align="center">Hi 👋, I'm Tushar Kanta Pradhan</h1>
 <h3 align="center">A passionate Data Science student | Machine Learning & Full-Stack Developer | Building end-to-end AI systems</h3>
 
