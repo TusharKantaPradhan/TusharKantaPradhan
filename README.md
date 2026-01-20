@@ -29,8 +29,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tusharkantapradhan&show_icons=true&locale=en" alt="tusharkantapradhan" /></p>
 
-https://github.com/TusharKantaPradhan/github-contribution-grid-snake/blob/main/.github/workflows/blank.yml
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TusharKantaPradhan/github-contribution-grid-snake/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
